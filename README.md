@@ -17,7 +17,7 @@ For implementing other explaining methods in the paper, we followed the tutorial
 # Run
 
 	python main.py --method RAP --arc vgg
-  python main.py --method RAP --arc resnet
+  	python main.py --method RAP --arc resnet
   
 
 
@@ -25,11 +25,11 @@ For implementing other explaining methods in the paper, we followed the tutorial
 # Paper Citation
 When using this code, please cite our paper.
 
-  @misc{nam2019relative,
-      title={Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks},
-      author={Woo-Jeoung Nam and Shir Gur and Jaesik Choi and Lior Wolf and Seong-Whan Lee},
-      year={2019},
-      eprint={1904.00605},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-  }
+	@misc{nam2019relative,
+	title={Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks},
+	author={Woo-Jeoung Nam and Shir Gur and Jaesik Choi and Lior Wolf and Seong-Whan Lee},
+	year={2019},
+	eprint={1904.00605},
+	archivePrefix={arXiv},
+	primaryClass={cs.CV}
+	}
